@@ -1,0 +1,9 @@
+@media(max-width:700px){
+    .row{
+        flex-flow: column wrap;
+        justify-content: flex-start;
+    }
+    .hero-1, .hero-2{
+        /* flex-direction: column; */
+    }
+}
